@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&animation=fadeIn&section=footer&text=JaeHwan&fontAlign=85&fontSize=50)
 
-
 <h1>Tech Stack</h1>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -18,11 +17,11 @@
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/></a>
-
-<h1>About Me</h1>
+<br>
+<h1>Tech Blog</h1>
 
 [![velog](https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@jjh099)
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinga02&layout=compact&theme=transparent) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinga02&layout=compact&theme=transparent)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinga02&show_icons=true&theme=transparent)
