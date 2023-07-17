@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&animation=fadeIn&section=footer&text=JaeHwan&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&animation=fadeIn&section=footer&text=JaeHwan&fontAlign=85&fontSize=60)
+
 
 <h1>Tech Stack</h1>
 <div style="display: flex;">
@@ -19,9 +20,9 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/></a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinga02&layout=compact&theme=transparent)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinga02&show_icons=true&theme=transparent)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinga02&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinga02&layout=compact&theme=transparent)
 
 
 
