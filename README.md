@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&animation=fadeIn&section=footer&text=JaeHwan&fontAlign=85&fontSize=50)
-
+<p >
+          <b>SSAFY</b> <br />
+          2023.01 ~ 2023.06 1학기 수료 <br />
+          2023.06 ~ SSAFY 2학기 진행중
+</p>
 <h1>Tech Stack</h1>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
