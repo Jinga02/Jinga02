@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&animation=fadeIn&section=footer&text=JaeHwan&fontAlign=85&fontSize=50)
 <p>
-          <img src="https://github.com/Jinga02/Jinga02/assets/110621233/59ad5829-4d28-4ed5-b1bc-baaa047243c1" style="width:30px"><br />
+          <b>SSAFY</b> <br/>
           2023.01 ~ 2023.06 1학기 수료 <br />
-          2023.06 ~ SSAFY 2학기 진행중
+          2023.06 ~  2학기 진행중
 </p>
 <h1>Tech Stack</h1>
 <div style="display: flex;">
