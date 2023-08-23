@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&animation=fadeIn&section=footer&text=JaeHwan&fontAlign=85&fontSize=50)
 <p>
-          <h2>SSAFY</h2> <br/>
+          <h1>SSAFY</h1> <br/>
           2023.01 ~ 2023.06 1학기 수료 <br />
           2023.06 ~  2학기 진행중
 </p>
