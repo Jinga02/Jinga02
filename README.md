@@ -3,6 +3,7 @@
           <h1>SSAFY</h1> <br/>
           2023.01 ~ 2023.06 1학기 수료 <br />
           2023.06 ~  2학기 진행중
+          2학기 1차 공통 프로젝트 우수상
 </p>
 <h1>Tech Stack</h1>
 <div style="display: flex;">
