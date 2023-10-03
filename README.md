@@ -19,10 +19,6 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 </div>
 
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white"/></a>
-
-
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/></a>
