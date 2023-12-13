@@ -26,7 +26,7 @@
 <a href="https://velog.io/@jjh099">
   <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white" alt="velog" width="100px">
 </a>
-<a href="https://celebrated-cucurucho-35bb1a.netlify.app/"><h1>My Portfoilo Site</h1></a>
+<a href="https://celebrated-cucurucho-35bb1a.netlify.app/">My Portfoilo Site</a>
 <br>
 <br>
 <br>
