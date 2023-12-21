@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&animation=fadeIn&section=footer&text=JaeHwan&fontAlign=85&fontSize=50)
 <p>
-          <h1>SSAFY</h1> <br/>
-          2023.01 ~ 2023.06 1학기 수료 <br />
-          2023.06 ~  2023.12 2학기 수료 <br/>
+          <h1>Education</h1> <br/>
+          2023.01 ~ 2023.12 SSAFY(삼성 청년 SW 아카데미) 수료
           - <b>2학기 공통 프로젝트 우수상🏆</b><br/>
+          2023.10 ~ 2023.11 우아한 프리코스 참여(JavaScript)
 </p>
 <h1>Tech Stack</h1>
 <div style="display: flex;">
