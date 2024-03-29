@@ -21,7 +21,9 @@
 
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/></a>
+
+<!-- <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/></a> -->
+
 <br>
 <h1>Tech Blog</h1>
 
