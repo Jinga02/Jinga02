@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&animation=fadeIn&section=footer&text=JaeHwan&fontAlign=85&fontSize=50)
 
 <h1>Experience</h1> <br/>
-<b>2024.01 ~ ADC (애드캡슐소프트) Front-end팀 Front-end 개발자 💻</b> <br/>
+<b>l</b> <br/>
 <b>2023.01 ~ 2023.12 SSAFY (삼성 청년 SW 아카데미) 수료- <b>2학기 공통 프로젝트 우수상🏆</b><br/></b>
 
 
