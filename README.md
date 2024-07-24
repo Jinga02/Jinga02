@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&animation=fadeIn&section=footer&text=JaeHwan&fontAlign=85&fontSize=50)
 
-<h1>Experience</h1> <br/>
-<b>l</b> <br/>
-<b>2023.01 ~ 2023.12 SSAFY (삼성 청년 SW 아카데미) 수료- <b>2학기 공통 프로젝트 우수상🏆</b><br/></b>
-
 
 <h1>Tech Stack</h1>
 <div style="display: flex;">
@@ -16,11 +12,11 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> -->
 </div>
 
-<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/></a>
+<!-- <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/></a> -->
 
 <!-- <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/></a> -->
 
