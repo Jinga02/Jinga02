@@ -31,5 +31,3 @@
 <br>
 <br>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinga02&layout=compact&theme=transparent) -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinga02&show_icons=true&theme=transparent)
